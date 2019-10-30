@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jason Blog</title>
+    <link>https://ccxyk.top/</link>
+    <description>Recent content on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43; 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-cpp 就是 fffaraz 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《libPhenom：Facebook开源的高性能 C 语言并发编程框架》 《OpenFrameworks：一个用C++编码的跨平台开源工具包》   目录  标准库 框架 人工智能 异步事件循环 音频 生态学 压缩 并发性 容器 密码学 数据库 调试 游戏引擎 图形用户界面 图形 图像处理 国际化 Json 日志 机器学习 数学 多媒体 网络 物理学 机器人学 科学计算 脚本 序列化 视频 虚拟机 Web应用框架 XML 多项混杂 软件 编译器 在线编译器 调试器 集成开发环境（IDE） 构建系统 静态代码分析  如何参与本项目？ 本项目的参与者  维护者：tangyouhua</description>
+    </item>
+    
+    <item>
+      <title>Go 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>此项目是 awesome-go 中文版，最后一次同步时间 : 2019-10-29 14:10:17(每隔1天同步一次)
+    
+ 为Awesome Go打赏~
+精选了一系列很棒的Go框架、库和软件。灵感来自于awesome-python。
+小图标说明 :
+小图标 | 说明
+:-:|- | star &amp;gt; 2000 | 最近一周有更新。可以基本判断当前库处于积极维护状态。 | 最近一年没有更新。反应了此库的维护积极性不高，使用时需谨慎。 | 此项目已归档，不再更新，使用时需谨慎。 | 此项目有中文文档。 | godoc文档地址。
+说明 中文 | English
+贡献 你可以快速浏览贡献者名单contribution guidelines. 感谢所有为此项目付出的同学contributors; 你真棒!
+如果您在看到一个包或项目不再维护或不适合，请往awesome-go提交Pull Request，本项目每隔一天与英文文档同步。感谢!
+内容  Awesome Go
+ 音频和音乐 身份验证和OAuth Bot建设 命令行 配置 持续集成 CSS预处理器 数据结构 数据库 数据库驱动程序 日期和时间 分布式系统 电子邮件 可嵌入的脚本语言 错误处理 文件 金融 表单 方法 游戏开发 代码生成与泛型 地理 Go 编译器 Goroutines GUI 硬件 图片 物联网 作业调度器 JSON 日志记录 机器学习 消息 微软办公软件  Microsoft Excel  杂项  依赖注入 项目布局 字符串  自然语言处理 网络  HTTP客户端  OpenGL ORM 包管理 性能 查询语言 嵌入的资源 科学与数据分析 安全 序列化 服务器应用程序 流处理 模板引擎 测试 文本处理 Third-party APIs 公用事业公司 UUID 验证 版本控制 视频 Web框架  中间件  仿真中间件 用于创建HTTP中间件的库  路由器  Windows XML  工具</description>
+    </item>
+    
+    <item>
+      <title>Java资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-java 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 ImportNew。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《OWNER：Java配置文件解决方案》 《Spring Boot：简化Spring应用初始搭建以及开发过程》 《SonarQube：开源的代码质量管理工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交PR时请注明推荐理由  资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者：tangyouhua
+ 贡献者：tangyouhua、kingzone、llhua2329、BadCoderChou、anankun、贺贺、大彭、superXiaoFan、javayrf、John Smith、Jaler、JM、dreamkidd、cheenlie、zhangQian1991、王涛、马、vvkee、凝枫、haixunlu、milly、Hodur、FakeHank、连乐、UncleTim、sunbiaobiao、zhiguo、光光头去打酱油、云中游、Zemo、sdcuike、danielwii、oneDay、邢敏、heikehuan、fgcui1204、wenxueliu、Gentle Yang、黄小非、wangtg、百焱、胡不GUI、Another_mt、Rainbow、super^糖、黄余粮、Sun、李伟高、lixiaobao、許中、You
+  注：名单不分排名，不定期补充更新
+目录  Java资源大全中文版  古董级工具 构建工具 字节码操作 集群管理 代码分析 编译器生成工具 外部配置工具 约束满足问题求解程序 持续集成 CSV解析 数据结构 数据库 时间日期工具库 依赖注入 开发流程增强工具 分布式应用 分布式数据库 发布 文档处理工具 函数式编程 游戏开发 GUI 高性能计算 IDE 图像处理 JSON JVM与JDK 基于JVM的语言 日志 机器学习 消息传递 杂项 应用监控工具 原生开发库 自然语言处理 网络 ORM PDF 性能分析 响应式开发库 REST框架 科学计算与分析 搜索引擎 安全 序列化 应用服务器 模板引擎 测试 通用工具库 网络爬虫 Web框架 业务流程管理套件  资源  社区 有影响力的书 播客 微博、微信公众号 Twitter 知名网站   古董级工具 这些工具伴随着Java一起出现，在各自辉煌之后还在一直使用。</description>
+    </item>
+    
+    <item>
+      <title>Python 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-python 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+关于项目 我们要做什么？  基于 awesome-python 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Scrapy：Python 的爬虫框架》 《Flask：一个使用 Python 编写的轻量级 Web 应用框架》   如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交 PR 时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交 PR 时请注明推荐理由  资源列表管理收到 PR 请求后，会定期（每周）在微博转发本周提交的 PR 列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者： 贡献者：艾凌风、Namco、Daetalus、黄利民、atupal、rainbow、木头lbj、beyondwu、cissoid、李广胜、polyval、冰斌、赵叶宇、л stalgic、硕恩、strongit、yuukilp、chenjiandongx、autopenguin、visonforcoding、Super赛亚人、Since-future、knktc  注：名单不分排名，不定期补充更新
+资源列表 环境管理 管理 Python 版本和环境的工具
+ p：非常简单的交互式 python 版本管理工具。官网 pyenv：简单的 Python 版本管理工具。官网 Vex：可以在虚拟环境中执行命令。官网 virtualenv：创建独立 Python 环境的工具。官网 virtualenvwrapper：virtualenv 的一组扩展。官网 buildout：在隔离环境初始化后使用声明性配置管理。官网  包管理 管理包和依赖的工具。</description>
+    </item>
+    
+    <item>
+      <title>区块链(BlockChain)资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>Awesome Blockchain   收集所有区块链(BlockChain)技术开发相关资料
+ Please read the contribution guidelines before contributing. 请在为本项目贡献信息前仔细阅读 操作指南
+欢迎到Issues提交区块链相关项目，我们会第一时间处理。 提交的项目格式如下： 项目名称：XXXXX 相关介绍: XXXXXX
+CONTENTS  INTRO 介绍 TUTORIAL 教程 PROJECT 项目 DOCUMENT 资料 APPLICATION 应用  INTRO 介绍 Started 入门  （一）简单易懂地介绍什么是区块链 比特币区块链关键词讲解 （二）简单易懂地介绍什么是区块链（技术篇） 比特币区块链技术图解 一文看懂区块链：一步一步发明比特币 一步一步学区块链 按步骤的实际操作入门指南 区块链技术指南 区块链领域比较系统的入门资料 理解区块链 区块链关键技术要点讲解 一文看懂区块链架构设计 从技术分层解构架构 共识算法与如何解决拜占庭将军问题  Ethereum 以太坊进阶  区块链技术-智能合约-以太坊 以太坊智能合约入门概念 以太坊白皮书 The Ethereum Wiki (English) 以太坊设计原理 以太坊Dapp开发入门 以太坊Gas使用 Calculating Costs in Ethereum Contracts (English) 以太坊代码剖析 以太坊源码阅读 Merkle Tree学习 以太坊的指南针  Fabric 联盟链进阶  Blockchain区块链架构设计之一：成员管理 Blockchain区块链架构设计之二：分布式账本技术对比 Blockchain区块链架构设计之三：Hyperledger Fabric介绍 Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计 Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考 Blockchain区块链架构设计之六：Fabric 1.</description>
+    </item>
+    
+    <item>
+      <title>机器学习资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/japanese-test/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/japanese-test/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-machine-learning 就是 josephmisiti 发起维护的机器学习资源列表，内容包括了机器学习领域的框架、库以及软件（按编程语言排序）。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-machine-learning 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Apache OpenNLP：处理类似分词等常见任务的工具》 《Mallet：NLP工具，支持文档分类、聚类、主题建模》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
+ 贡献者：toolate、冰斌、云中游、Daetalus、赵叶宇、You
+  注：名单不分排名，不定期补充更新
+[](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#c)C++ [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#compute-vision)计算机视觉  CCV：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。官网 OpenCV：它提供C++、C、Python、Java 以及 MATLAB接口。并支持Windows、Linux、Android 和 Mac OS操作系统。官网  [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning)通用机器学习  MLPack：官网。 DLib：官网。 ecogg：官网。 shark：官网。  [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#clojure)Clojure 通用机器学习  Clojure Toolbox：Clojure语言库与工具的分类目录。官网  [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#go)Go [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#natural-language-processing)自然语言处理  go-porterstemmer：一个Porter词干提取算法的原生Go语言净室实现。官网 paicehusk：Paice/Husk词干提取算法的Go语言实现。官网 snowball：Go语言版的Snowball词干提取器。官网  [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning-2)通用机器学习  Go Learn：Go语言机器学习库。官网 go-pr：Go语言机器学习包。官网 bayesian：Go语言朴素贝叶斯分类库。官网 go-galib：Go语言遗传算法库。官网  [](https://github.</description>
+    </item>
+    
+    <item>
+      <title>系统管理员资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-sysadmin 就是 kahun 发起维护的 系统管理员 资源列表，内容包括：备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Logstash：日志文件管理工具》 《MyCli：支持自动补全和语法高亮的 MySQL 客户端》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
+ 贡献者：cucr、冰斌、黄余粮、You
+  注：名单不分排名，不定期补充更新
+备份 备份软件
+ Amanda：客户端-服务器模型备份工具。官网 Bacula：另一个客户端-服务器模型备份工具。官网 Backupninja：轻量级，可扩展的元数据备份系统。官网 Backuppc：客户端-服务器模型备份工具和文件共享方案。官网 Burp：网络备份和还原程序。官网 Duplicity：使用rsync算法加密的带宽-效率备份。官网 Lsyncd：监控一个本地目录树的变化,然后产生一个进程去同步变化。默认使用rsync。官网 Rsnapshot：文件系统快照工具。官网 SafeKeep：使用rdiff-backup，集中的，基于pull的备份。官网 TarSnap：具有一个开源客户端的安全备份服务。官网 UrBackup：另一个客户端-服务器备份系统。官网 DREBS：AWS EBS支持策略的备份脚本。官网  克隆 克隆软件
+ Clonezilla：分区和磁盘镜像/克隆程序。官网 Fog：另一个计算机克隆解决方案。官网 Redo Backup：简单的备份，恢复和还原。官网  云计算  AppScale - 兼容Google App引擎的开源云计算软件. Archipel：使用Libvirt管理和监视虚拟机。官网 CloudStack：创建，管理和部署基础云服务的云计算软件。官网 Cobbler：Cobbler是一个Linux安装服务器，允许快速地构建网络安装环境。官网 Eucalyptus：兼容AWS的开源私有云软件。官网 Mesos：开发和运行能效高的分布式系统。官网 OpenNebula：一个用于系统管理员和研发运维的用户驱动的云管理平台。官网 OpenStack：构建私有和开放云的开源软件。官网 The Foreman：Foreman是一个用于物理和虚拟服务器的全生命周期管理工具.</description>
+    </item>
+    
+    <item>
+      <title>C 语言资源大全中文版 </title>
+      <link>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome：XXX 系列的资源整理。awesome-c 是 koz.ross 发起维护的 C 语言资源列表，内容包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等等。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-c 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《libPhenom：Facebook开源的高性能C语言并发编程框架》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交PR时请注明推荐理由  资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者： 贡献者：Yonah潇、骷髅、贺贺、beyondwu、Huang Lin、Anloper、冰斌  注：名单不分排名，不定期补充更新
+目录  构建系统 编译器 加密 数据库 文档生成 编辑器 环境 框架 游戏编程  引擎 资源  通用编程 图形 GUI JSON 学习、参考和指南  在线资源  参考 初级 中级 高级 自学资源  实体书  参考 初级 中级 高级   多媒体 网络编程  Web 框架  数值计算 并行编程 正则表达式 序列化 源码集锦 标准库 字符串处理 测试工具 文本编辑器扩展  Emacs Vim  工具 其他工具 XML 其他资源  有影响力的书 知名网站/博客 微信公众号   构建系统 下面是一些 C 项目的自动化构建和测试工具。</description>
+    </item>
+    
+    <item>
+      <title>JavaScript 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>JavaScript 资源大全中文版 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《jQWidgets：jQuery HTML5 UI组件框架》 《Bootstrap：Web前端开发框架》 《YUI Compressor：JS/CSS压缩工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交PR时请注明推荐理由  资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者： 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、Tab_Gre、GavinZhang、shadowkimi520、zhoutk、tzstone、Erichain、chen、ElizabethMa、LeuisKen、linacre、王涛、neal1991、luoyjx、appleshowc、TAMMENY、cike8899、cnzin、cike8899、hustcc、冰斌、邢敏、张小然  注：名单不分排名，不定期补充更新
+目录  JavaScript资源大全中文版  包管理器 加载器 打包工具 测试框架 QA 工具 MVC 框架和库 基于 Node 的 CMS 框架 模板引擎 Flux 数据可视化 时间轴 编辑器 工具 文件 函数式编程 响应式编程 数据结构 日期 字符串 数字 存储 颜色 国际化和本地化 类 控制流 路由 安全性 日志 正则表达式 媒体 语言命令 API 视觉检测 浏览器检测 性能分析 UI 代码高亮 加载状态 验证 键盘封装器 浏览和引导 通知 幻灯片 滑块控件 表单组件 提示 模态框和弹出框 滚动条 菜单 表格/栅格 框架 移动 手势 触摸 地图 视频/音频 动画 图片处理 ES6 SDK 大杂烩  精品阅读 资源  社区 有影响力的书 微博、微信公众号 知名网站 博客   包管理器 管理着 JavaScript 库，并提供读取和打包它们的工具。</description>
+    </item>
+    
+    <item>
+      <title>MySQL 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-mysql 就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Logstash：日志文件管理工具》 《MyCli：支持自动补全和语法高亮的 MySQL 客户端》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
+ 贡献者：夏了夏天、lovecn、You
+  注：名单不分排名，不定期补充更新
+目录  分析工具 备份 性能测试 聊天应用 配置 连接器 部署 开发 GUI HA 代理 复制 模式 服务器 分片 工具包  资源
+ 文档 电子书 媒体 简讯  分析工具 性能，结构和数据分析工具
+ Anemometer - 一个 SQL 慢查询监控器。 innodb-ruby - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。 innotop - 一个具备多种特性和可扩展性的 MySQL 版 &amp;lsquo;top&amp;rsquo; 工具。 pstop - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。 mysql-statsd - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。  备份 备份/存储/恢复 工具</description>
+    </item>
+    
+    <item>
+      <title>VS Code资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/japanese-test/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/japanese-test/</guid>
+      <description> 玩转VS Code  知乎专栏 - Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部都可以在这里找到。带你玩转VSCode！ 工欲善其事，必先利其器。知乎 Live《VS Code 从入门到进阶》，带你玩转 VS Code！ 微信公众号 - 文章内容与“玩转VS Code”知乎专栏同步，为习惯于公众号阅读的童鞋提供额外的选择。  * 微信群 - 畅所欲言，交流一切与 VS Code 相关的信息。相互学习，共同进步！请添加微信 hellovsc，然后拉入微信群。
+国人开发的优秀插件  background - 为 VS Code 添加你喜欢的背景图片。 Code Runner - 代码一键运行，支持超过40种语言。 LaTeX Workshop - 提升 LaTeX 编排效率：预览，智能提示，格式化等功能以及丰富的快捷键。 LeetCode - Offer 收割利器，在 VS Code 中轻松刷题。 Markdown All in One - 多合一的 Markdown 插件：自动补全，格式化，数学公式支持等功能以及丰富的快捷键。 MySQL - MySQL 管理工具。 One Dark Pro - 最受欢迎的 VS Code 主题之一 REST Client - REST API 的测试开发利器。 Ruby - 为 Ruby 语言提供全面支持。 Syncing - 简单可靠的多设备间 VS Code 配置同步工具。 Vetur - 极为好用的 Vue 开发工具。 VSC Netease Music - 边写代码，边听网易云音乐。  </description>
+    </item>
+    
+    <item>
+      <title>design资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客、设计工具设计教程、设计素材、配色方案、高清图库等等。
+如何加入我们？ 非常期待能有更多朋友一起来参与。加入前，有几个小要求：
+ 对设计感兴趣，如果在从事这方面工作更好； 如果您的英文还不错，那也非常好啦；（这个不强制要求）  如有兴趣，请加 QQ：191250436。加 Q 时请注明「设计资源」
+我们还在翻译国外的优秀设计文章，如果您有一定的设计背景和英文基础，欢迎从这里申请加入我们。
+本项目的参与者 ㄨiaǒ偉、shanlijie001、rose、梦熙、布洛、
+注：名单不分排名，不定期补充更新
+奖励计划 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
+ 整理超过 20 个资源后，可在伯乐在线上开通打赏； 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品； 奖励详情  目录 ICON图标  Fontello：图标字体生成器 The Noun Project：免费提供高度可辨识符号图标 IconArchive：专业图标搜索引擎 iConify：Mac平台的苹果应用图标自动化生成工具 Iconbench：在线ICON素材图标制作工具 EasyIcon：免费图标搜索和下载平台 Icon Deposit：一个奇妙的图标下载站  Logo 设计  Logaster：教你在线几分钟内搞定专业的LOGO设计 LogoLounge：国际知名的LOGO设计权威网站 LogoMoose：一个优秀的logo素材站点 LogoPond：LOGO设计作品收藏网 BRAND NEW：资源丰富的Logo设计网站 LOGOED：一个展示Logo设计的博客 LOGOSPIRE：logo设计的交流平台 Logo of the Day：汇集世界各地优秀LOGO作品的站点 LogoDesignLove：Logo设计技巧分享网 Brandseen：匹配流行品牌LOGO颜色的在线游戏  Photoshop插件  Retinize：iOS切图神器 GuideGuide：一款PS参考线插件 Divine Proportions Toolkit：黄金分割工具 Kockout：PS抠图神器 Coolors：自动生成配色色板的小工具 Assistor PS：一个功能强大的PS辅助工具 Flexify 2：PS变形滤镜插件 DevRocket：一款iOS UI设计效率工具 Slicy：Mac下的切图神器 Kuler：Adobe的配色工具  交互设计工具  VXPLO：专业的HTML5编辑工具 Epub360：专业级H5交互设计工具 Indigo Studio：UI原型设计和交互设计工具 Avocado：无需编码的跟设计原型进行交互 Webflow：傻瓜式网页设计制作平台 Marvel：更专注交互动作的在线工具 Principle：Mac平台交互动效设计神器 Quartz Composer：图形化的编程工具 Form：交互原型设计工具 Pixate：设计师的免费动效神器 Framer.</description>
+    </item>
+    
+  </channel>
+</rss>

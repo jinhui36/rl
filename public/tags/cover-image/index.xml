@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cover image on jason Blog</title>
+    <link>https://ccxyk.top/tags/cover-image/</link>
+    <description>Recent content in cover image on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/tags/cover-image/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-python 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+关于项目 我们要做什么？  基于 awesome-python 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Scrapy：Python 的爬虫框架》 《Flask：一个使用 Python 编写的轻量级 Web 应用框架》   如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交 PR 时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交 PR 时请注明推荐理由  资源列表管理收到 PR 请求后，会定期（每周）在微博转发本周提交的 PR 列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者： 贡献者：艾凌风、Namco、Daetalus、黄利民、atupal、rainbow、木头lbj、beyondwu、cissoid、李广胜、polyval、冰斌、赵叶宇、л stalgic、硕恩、strongit、yuukilp、chenjiandongx、autopenguin、visonforcoding、Super赛亚人、Since-future、knktc  注：名单不分排名，不定期补充更新
+资源列表 环境管理 管理 Python 版本和环境的工具
+ p：非常简单的交互式 python 版本管理工具。官网 pyenv：简单的 Python 版本管理工具。官网 Vex：可以在虚拟环境中执行命令。官网 virtualenv：创建独立 Python 环境的工具。官网 virtualenvwrapper：virtualenv 的一组扩展。官网 buildout：在隔离环境初始化后使用声明性配置管理。官网  包管理 管理包和依赖的工具。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social on jason Blog</title>
+    <link>https://ccxyk.top/tags/social/</link>
+    <description>Recent content in social on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaScript 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>JavaScript 资源大全中文版 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《jQWidgets：jQuery HTML5 UI组件框架》 《Bootstrap：Web前端开发框架》 《YUI Compressor：JS/CSS压缩工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交PR时请注明推荐理由  资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者： 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、Tab_Gre、GavinZhang、shadowkimi520、zhoutk、tzstone、Erichain、chen、ElizabethMa、LeuisKen、linacre、王涛、neal1991、luoyjx、appleshowc、TAMMENY、cike8899、cnzin、cike8899、hustcc、冰斌、邢敏、张小然  注：名单不分排名，不定期补充更新
+目录  JavaScript资源大全中文版  包管理器 加载器 打包工具 测试框架 QA 工具 MVC 框架和库 基于 Node 的 CMS 框架 模板引擎 Flux 数据可视化 时间轴 编辑器 工具 文件 函数式编程 响应式编程 数据结构 日期 字符串 数字 存储 颜色 国际化和本地化 类 控制流 路由 安全性 日志 正则表达式 媒体 语言命令 API 视觉检测 浏览器检测 性能分析 UI 代码高亮 加载状态 验证 键盘封装器 浏览和引导 通知 幻灯片 滑块控件 表单组件 提示 模态框和弹出框 滚动条 菜单 表格/栅格 框架 移动 手势 触摸 地图 视频/音频 动画 图片处理 ES6 SDK 大杂烩  精品阅读 资源  社区 有影响力的书 微博、微信公众号 知名网站 博客   包管理器 管理着 JavaScript 库，并提供读取和打包它们的工具。</description>
+    </item>
+    
+  </channel>
+</rss>

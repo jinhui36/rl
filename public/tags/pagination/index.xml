@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pagination on jason Blog</title>
+    <link>https://ccxyk.top/tags/pagination/</link>
+    <description>Recent content in pagination on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>区块链(BlockChain)资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>Awesome Blockchain   收集所有区块链(BlockChain)技术开发相关资料
+ Please read the contribution guidelines before contributing. 请在为本项目贡献信息前仔细阅读 操作指南
+欢迎到Issues提交区块链相关项目，我们会第一时间处理。 提交的项目格式如下： 项目名称：XXXXX 相关介绍: XXXXXX
+CONTENTS  INTRO 介绍 TUTORIAL 教程 PROJECT 项目 DOCUMENT 资料 APPLICATION 应用  INTRO 介绍 Started 入门  （一）简单易懂地介绍什么是区块链 比特币区块链关键词讲解 （二）简单易懂地介绍什么是区块链（技术篇） 比特币区块链技术图解 一文看懂区块链：一步一步发明比特币 一步一步学区块链 按步骤的实际操作入门指南 区块链技术指南 区块链领域比较系统的入门资料 理解区块链 区块链关键技术要点讲解 一文看懂区块链架构设计 从技术分层解构架构 共识算法与如何解决拜占庭将军问题  Ethereum 以太坊进阶  区块链技术-智能合约-以太坊 以太坊智能合约入门概念 以太坊白皮书 The Ethereum Wiki (English) 以太坊设计原理 以太坊Dapp开发入门 以太坊Gas使用 Calculating Costs in Ethereum Contracts (English) 以太坊代码剖析 以太坊源码阅读 Merkle Tree学习 以太坊的指南针  Fabric 联盟链进阶  Blockchain区块链架构设计之一：成员管理 Blockchain区块链架构设计之二：分布式账本技术对比 Blockchain区块链架构设计之三：Hyperledger Fabric介绍 Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计 Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考 Blockchain区块链架构设计之六：Fabric 1.</description>
+    </item>
+    
+  </channel>
+</rss>

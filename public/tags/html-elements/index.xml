@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html elements on jason Blog</title>
+    <link>https://ccxyk.top/tags/html-elements/</link>
+    <description>Recent content in html elements on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/tags/html-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-java 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 ImportNew。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《OWNER：Java配置文件解决方案》 《Spring Boot：简化Spring应用初始搭建以及开发过程》 《SonarQube：开源的代码质量管理工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+ 请确保推荐的资源自己使用过 提交PR时请注明推荐理由  资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+感谢您的贡献！
+本项目的参与者  维护者：tangyouhua
+ 贡献者：tangyouhua、kingzone、llhua2329、BadCoderChou、anankun、贺贺、大彭、superXiaoFan、javayrf、John Smith、Jaler、JM、dreamkidd、cheenlie、zhangQian1991、王涛、马、vvkee、凝枫、haixunlu、milly、Hodur、FakeHank、连乐、UncleTim、sunbiaobiao、zhiguo、光光头去打酱油、云中游、Zemo、sdcuike、danielwii、oneDay、邢敏、heikehuan、fgcui1204、wenxueliu、Gentle Yang、黄小非、wangtg、百焱、胡不GUI、Another_mt、Rainbow、super^糖、黄余粮、Sun、李伟高、lixiaobao、許中、You
+  注：名单不分排名，不定期补充更新
+目录  Java资源大全中文版  古董级工具 构建工具 字节码操作 集群管理 代码分析 编译器生成工具 外部配置工具 约束满足问题求解程序 持续集成 CSV解析 数据结构 数据库 时间日期工具库 依赖注入 开发流程增强工具 分布式应用 分布式数据库 发布 文档处理工具 函数式编程 游戏开发 GUI 高性能计算 IDE 图像处理 JSON JVM与JDK 基于JVM的语言 日志 机器学习 消息传递 杂项 应用监控工具 原生开发库 自然语言处理 网络 ORM PDF 性能分析 响应式开发库 REST框架 科学计算与分析 搜索引擎 安全 序列化 应用服务器 模板引擎 测试 通用工具库 网络爬虫 Web框架 业务流程管理套件  资源  社区 有影响力的书 播客 微博、微信公众号 Twitter 知名网站   古董级工具 这些工具伴随着Java一起出现，在各自辉煌之后还在一直使用。</description>
+    </item>
+    
+  </channel>
+</rss>

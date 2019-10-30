@@ -4,7 +4,7 @@ function random(lower, upper) {
 	return Math.floor(Math.random() * (upper - lower+1)) + lower;
 }  
 
-router.get('/', async (ctx, next) => {
+router.get('/rl', async (ctx, next) => {
  ctx.body = 'koa2 string';
   // ctx.response.set('Location', 'https://wwww.baidu.com')
   var links = ["https://creditcard.cmbc.com.cn/wsv2/?etr=kGy6TZrY1jluXxr7iO/UauOO7KAWY5ErTWaDSRxGRVHOgO29lLJfs1GMFzvBhlLsfkS7B7wnjnRdixJ9IEEVKGqm++SGUaTLO9SrjF+H+I0IaTIA7LevUVGYXIsxrmxk9AL/52nNO0kHrOvqM7WOv8Osj1tRz7OqExwBaoUhSEAa4nIAwcPgHrggHrRB3PuHCf0tmGxvw8MDmiRZXgPDchA72+5//bSfDfNPkDdWjHvpVDilYKFhBX0yMwrtj+5vq4WZXVo+YXwutEBrsKzam01iji3v5foYbUQWsxuMpE1ISdpyAJpX1xQlbhBcAuETewt1itzg9yDeO/n6kcg0m1ecSYhh0yFQ29Ekmgme6+QO7Hx3xyPQowDL37uT4q1dYkoe1SxHWT45ORRNFMdtsGG2Ni/poQ2lt/w9klQ8dHt14aaiXzg4Puvw34lTrbYmnN4O2QkHTdZSHfHE//D5FgYD+p9M621oJcaXDJniIcofWVZxS13XPJuoHQ9Q6kYN",

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>showcase on jason Blog</title>
+    <link>https://ccxyk.top/categories/showcase/</link>
+    <description>Recent content in showcase on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/categories/showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>系统管理员资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-sysadmin 就是 kahun 发起维护的 系统管理员 资源列表，内容包括：备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Logstash：日志文件管理工具》 《MyCli：支持自动补全和语法高亮的 MySQL 客户端》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
+ 贡献者：cucr、冰斌、黄余粮、You
+  注：名单不分排名，不定期补充更新
+备份 备份软件
+ Amanda：客户端-服务器模型备份工具。官网 Bacula：另一个客户端-服务器模型备份工具。官网 Backupninja：轻量级，可扩展的元数据备份系统。官网 Backuppc：客户端-服务器模型备份工具和文件共享方案。官网 Burp：网络备份和还原程序。官网 Duplicity：使用rsync算法加密的带宽-效率备份。官网 Lsyncd：监控一个本地目录树的变化,然后产生一个进程去同步变化。默认使用rsync。官网 Rsnapshot：文件系统快照工具。官网 SafeKeep：使用rdiff-backup，集中的，基于pull的备份。官网 TarSnap：具有一个开源客户端的安全备份服务。官网 UrBackup：另一个客户端-服务器备份系统。官网 DREBS：AWS EBS支持策略的备份脚本。官网  克隆 克隆软件
+ Clonezilla：分区和磁盘镜像/克隆程序。官网 Fog：另一个计算机克隆解决方案。官网 Redo Backup：简单的备份，恢复和还原。官网  云计算  AppScale - 兼容Google App引擎的开源云计算软件. Archipel：使用Libvirt管理和监视虚拟机。官网 CloudStack：创建，管理和部署基础云服务的云计算软件。官网 Cobbler：Cobbler是一个Linux安装服务器，允许快速地构建网络安装环境。官网 Eucalyptus：兼容AWS的开源私有云软件。官网 Mesos：开发和运行能效高的分布式系统。官网 OpenNebula：一个用于系统管理员和研发运维的用户驱动的云管理平台。官网 OpenStack：构建私有和开放云的开源软件。官网 The Foreman：Foreman是一个用于物理和虚拟服务器的全生命周期管理工具.</description>
+    </item>
+    
+  </channel>
+</rss>

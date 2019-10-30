@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag plugins on jason Blog</title>
+    <link>https://ccxyk.top/tags/tag-plugins/</link>
+    <description>Recent content in tag plugins on jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ccxyk.top/tags/tag-plugins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MySQL 资源大全中文版</title>
+      <link>https://ccxyk.top/2019/10/mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccxyk.top/2019/10/mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-mysql 就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+我们要做什么？  基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Logstash：日志文件管理工具》 《MyCli：支持自动补全和语法高亮的 MySQL 客户端》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
+ 贡献者：夏了夏天、lovecn、You
+  注：名单不分排名，不定期补充更新
+目录  分析工具 备份 性能测试 聊天应用 配置 连接器 部署 开发 GUI HA 代理 复制 模式 服务器 分片 工具包  资源
+ 文档 电子书 媒体 简讯  分析工具 性能，结构和数据分析工具
+ Anemometer - 一个 SQL 慢查询监控器。 innodb-ruby - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。 innotop - 一个具备多种特性和可扩展性的 MySQL 版 &amp;lsquo;top&amp;rsquo; 工具。 pstop - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。 mysql-statsd - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。  备份 备份/存储/恢复 工具</description>
+    </item>
+    
+  </channel>
+</rss>
