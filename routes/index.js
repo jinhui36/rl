@@ -70,4 +70,17 @@ router.get('/rl3', async (ctx, next) => {
   link = links[num];
   ctx.redirect(link);
 })
+
+router.get('/rl4', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=a2SPGLL1YTShWpGWK4l75ndxnnmUcfGs1BXA25%2FG6Oin2DUWKBPtyCtcdNig1D7MUVgS9f8M4cdzIc60i7bWyNGSlM4e%2Ben0r5i1XeAKoiWa6cfQfBpu7AjOkN%2BerO%2Fd392tzLL%2FuJ%2FiNZIj%2BXG93lZiyWlVYhmsdRqwzl3UKt5IslYC7UVdOlFWpFJn%2F89ywY40A7kCwm8mDOZLjta2gaexqfQnRVLuPIWdse0frJkoHQU3FV8M%2BNH6K1DlxB3QzU8kkcX1R0XSFhkODaKNBS54Nnybip8s3O%2BHmONdQLIWAK29Lw2rr6SScD4C5VXmeiPztLKCto5cbZwZU9qlLXnHjOBoRoG5X7CekgdNfpg6yWbeyAImYpusG6eGG0js47E3g4TafsXzOC9LBGExYWE6MfEcjXLhWwtIOZi9BlgYcn7HOxZunkLnvQC12iB63Entx%2FYy%2FGgRhpyAthidF0uSx25We%2BRp4UjdaSG4ljOgXviSZP2LahB0nlWex8aL&source=JZ-GG17#page=1",
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
+
 module.exports = router
