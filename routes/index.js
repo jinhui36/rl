@@ -7,9 +7,10 @@ function random(lower, upper) {
 router.get('/rl', async (ctx, next) => {
  ctx.body = 'koa2 string';
   // ctx.response.set('Location', 'https://wwww.baidu.com')
-  var links = ["https://creditcard.cmbc.com.cn/wsv2/?etr=kGy6TZrY1jluXxr7iO/UauOO7KAWY5ErTWaDSRxGRVHOgO29lLJfs1GMFzvBhlLsfkS7B7wnjnRdixJ9IEEVKGqm++SGUaTLO9SrjF+H+I0IaTIA7LevUVGYXIsxrmxk9AL/52nNO0kHrOvqM7WOv8Osj1tRz7OqExwBaoUhSEAa4nIAwcPgHrggHrRB3PuHCf0tmGxvw8MDmiRZXgPDchA72+5//bSfDfNPkDdWjHvpVDilYKFhBX0yMwrtj+5vq4WZXVo+YXwutEBrsKzam01iji3v5foYbUQWsxuMpE1ISdpyAJpX1xQlbhBcAuETewt1itzg9yDeO/n6kcg0m1ecSYhh0yFQ29Ekmgme6+QO7Hx3xyPQowDL37uT4q1dYkoe1SxHWT45ORRNFMdtsGG2Ni/poQ2lt/w9klQ8dHt14aaiXzg4Puvw34lTrbYmnN4O2QkHTdZSHfHE//D5FgYD+p9M621oJcaXDJniIcofWVZxS13XPJuoHQ9Q6kYN",
-  "https://creditcard.cmbc.com.cn/wsv2/?etr=XPYLn7f6cdPknX0qd8mZSyhr29sg2uyk/bw8+llM2l0grFsPsXik3Gw4vM+jFVwhGfxNVwObfM3v4jD/p7QIIRla2kOM6QkTpzGSvvB3qbvtypbZh7ieN3IpCdvGNojNo4J1CSJMwwuwLJkTZNwHmKGvPpgjyewAK+SqRZq/kReIw1C7FCzZW5q0KOGdw6z9heWuncCidsxjjZeEAKK/9QRo3tnYO+I5NqnOMBe/oylR2tH4Msu4tL7s/M4VF9U8elYM9vuCqs7UrpYb8Uy+CYI9mILAzLsAqqV4dfWUhVCsuWPIry39o/LWr1ol57v1qPS1Sxi3BWI7H4+bgz1tSleqm0P8hRd7JSR1m69W9RJv/DEIxgNWi61aXng3b2Ec4D0JdY3bcfnfufxVTz71VbX7So8NRt4ovXiWuU2K1ce+zXCIT320VNQkvg5no4Pv1C49OV2SG1bIneZ30t5dP1Dga3Ek9DvZRHzI8gQgaraslJpvEAlWfqnmxGHnxlCL",
-  "https://creditcard.cmbc.com.cn/wsv2/?etr=JvmZWpbFpRpQlPF7sF8m1OHfob+hOEnxLhiyGsMS8AwBqweoQJm/m9wrdj9AZVm+XejoI1PpW6trMl0AqYnkTijz7JbZKfr05/8ISD66UtyKfrS9b+FAIjfDF4xyt+avmPNSBwleBlXpyGGzTJ56UnCvqp1MoUKui1PErrMm4gJn530+YOfHHK8lnXoK6FQjXfa+Lu4b/Cr/TflrysppNULne2p6R4s3bWK8S1NTmvrLLKyYlHdn4mAoMnM0qRa+89fSzef/2zyQMCcKQ58uQSYDdLEoVWMYBygjlaGNgZr67kbG4Y4wALFwutGMbfP0NCDc1BdMkfD2cBB/qOlNMoPlKOawtNRLYVG4pdbau4Og6UUUvYd5Up0eB17W/418XBSwkXMBq3FlPVgp5ciYO2iR0oZCnE7gkRDGW8rkCwHcud6uhWcf2tFZDtapiRr4jKz+Fs3SAyJggqbGAUt5iWS91WuEjkKAdLTfq6fkHdYObRug5djBLSujAGUkKLQg&token=2oRNUnEeWGsvYqb4dkPylq0UFnyiDS1D1LjPk8B20UyAp7FT_Mb7jS72NwFBUtS40so6pNXNJPMGi02vHPZohg"
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/?etr=kGy6TZrY1jluXxr7iO/UauOO7KAWY5ErTWaDSRxGRVHOgO29lLJfs1GMFzvBhlLsfkS7B7wnjnRdixJ9IEEVKGqm++SGUaTLO9SrjF+H+I0IaTIA7LevUVGYXIsxrmxk9AL/52nNO0kHrOvqM7WOv8Osj1tRz7OqExwBaoUhSEAa4nIAwcPgHrggHrRB3PuHCf0tmGxvw8MDmiRZXgPDchA72+5//bSfDfNPkDdWjHvpVDilYKFhBX0yMwrtj+5vq4WZXVo+YXwutEBrsKzam01iji3v5foYbUQWsxuMpE1ISdpyAJpX1xQlbhBcAuETewt1itzg9yDeO/n6kcg0m1ecSYhh0yFQ29Ekmgme6+QO7Hx3xyPQowDL37uT4q1dYkoe1SxHWT45ORRNFMdtsGG2Ni/poQ2lt/w9klQ8dHt14aaiXzg4Puvw34lTrbYmnN4O2QkHTdZSHfHE//D5FgYD+p9M621oJcaXDJniIcofWVZxS13XPJuoHQ9Q6kYN",
+	"https://creditcard.cmbc.com.cn/wsv2/?etr=XPYLn7f6cdPknX0qd8mZSyhr29sg2uyk/bw8+llM2l0grFsPsXik3Gw4vM+jFVwhGfxNVwObfM3v4jD/p7QIIRla2kOM6QkTpzGSvvB3qbvtypbZh7ieN3IpCdvGNojNo4J1CSJMwwuwLJkTZNwHmKGvPpgjyewAK+SqRZq/kReIw1C7FCzZW5q0KOGdw6z9heWuncCidsxjjZeEAKK/9QRo3tnYO+I5NqnOMBe/oylR2tH4Msu4tL7s/M4VF9U8elYM9vuCqs7UrpYb8Uy+CYI9mILAzLsAqqV4dfWUhVCsuWPIry39o/LWr1ol57v1qPS1Sxi3BWI7H4+bgz1tSleqm0P8hRd7JSR1m69W9RJv/DEIxgNWi61aXng3b2Ec4D0JdY3bcfnfufxVTz71VbX7So8NRt4ovXiWuU2K1ce+zXCIT320VNQkvg5no4Pv1C49OV2SG1bIneZ30t5dP1Dga3Ek9DvZRHzI8gQgaraslJpvEAlWfqnmxGHnxlCL",
+	"https://creditcard.cmbc.com.cn/wsv2/?etr=JvmZWpbFpRpQlPF7sF8m1OHfob+hOEnxLhiyGsMS8AwBqweoQJm/m9wrdj9AZVm+XejoI1PpW6trMl0AqYnkTijz7JbZKfr05/8ISD66UtyKfrS9b+FAIjfDF4xyt+avmPNSBwleBlXpyGGzTJ56UnCvqp1MoUKui1PErrMm4gJn530+YOfHHK8lnXoK6FQjXfa+Lu4b/Cr/TflrysppNULne2p6R4s3bWK8S1NTmvrLLKyYlHdn4mAoMnM0qRa+89fSzef/2zyQMCcKQ58uQSYDdLEoVWMYBygjlaGNgZr67kbG4Y4wALFwutGMbfP0NCDc1BdMkfD2cBB/qOlNMoPlKOawtNRLYVG4pdbau4Og6UUUvYd5Up0eB17W/418XBSwkXMBq3FlPVgp5ciYO2iR0oZCnE7gkRDGW8rkCwHcud6uhWcf2tFZDtapiRr4jKz+Fs3SAyJggqbGAUt5iWS91WuEjkKAdLTfq6fkHdYObRug5djBLSujAGUkKLQg&token=2oRNUnEeWGsvYqb4dkPylq0UFnyiDS1D1LjPk8B20UyAp7FT_Mb7jS72NwFBUtS40so6pNXNJPMGi02vHPZohg"
   ];
   maxLink = links.length - 1;
   num = random(0, maxLink);
@@ -45,5 +46,28 @@ router.get('/rl1', async (ctx, next) => {
    ctx.redirect(link);
  })
 
+router.get('/rl2', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/?cnl=5,1365302,75&cnltype=CLASS,EMPLOYEEB,ORGANIZE&etr=BSDG+W1n14B1x/4GNMGXxcYOUfWSJ3dkwMlxJ2/Aq+ivt7xk2Ok/2PBaklddd348dh20QnqPGHxxoQ4d9PT9ltvNJ7SKGAPrdQRlhULaLkf67K12C18PygSI0HxJajy7/Yhs2xtyjKszaSM+DUVYEkVsORFwEsRC3wbAwDHXtUOq3c46tdYQ88278BWb3S3e0F9ngEqXKr56Rgaoh2/TnweDmwGB+RRtUJnKkMe207ErjIke96pp7ym8NZVNZsPInMRUtmBvjd8QWHB3mFzPtQthvhiwgArNpamM0pLC3LndAShHny/OUM03upiHSJD9GRwzivaZ1LGSteP7otUStKbMhks/MyhiQD4EeyEvUaIZYTbIB+g2DMKYF8+25e5Q0eqKCSFLTj3i+6WNbhLuElLpAMnMu6ELl8ictyZVjuUK8Mctr22HaWu1LAeO6qilw0piBc0MKJ027V1cMBNqqCQv11d8SZnrYnYA/WOhJwbrq5fMQDl+3IB5CN9Dvwrq",
+	"https://creditcard.cmbc.com.cn/wsv2/?cnl=5,1547792,75&cnltype=CLASS,EMPLOYEEB,ORGANIZE&etr=BSOu8ByyeKXgoO57gRlgSlFeeaZWT2yaFn9ol2+1qLTCYLtk2fTcCMEgLVuuUfDZHT95+q6G43uAajRYccFViBiCZMtcaf80WpmP3pg18WLwiynIXa01X/lNlVvie0p0QKsDHeiOEn+98Q6ogRia1x1voPkxPd3Zvv2vYRsQST296LgdtnLAzo9OH2z47eDInPL8KXsP9CI4bMOGnkxEXuEruTDdMUsq/hCrqansKyY9yM+d819PYK2/0/AgTR43l8J4WPCtqupjFrCDDmSaHa3C94V7K2nyjkSX8ZtS9vAvZf6jQJ2cMfWPxlVA4eDlrTUi4Thml+ehyRiV4XK0LJlV05iv+eW14lpIQxiR6S94O9iTs5DKqRmjZ1Hyn1/uDJ7yBEOsmndHHzWAEoUAGuL9czFwNqCA6asd1IP+Fr8PHTGmpZW25LbpwLRa+riEjsfrK7VLnQG8gRxcWH0MLY4rFhu3NHdagwUIn4yeNUaz3dADT6g1MkBqFX0MOIlY&token=ZIqcJB0fKz2Y6pKEUMS-bS4rWiDzPlJxGypYZp7TcFK8jlBCn04GZi0o7A9JnoyjmvSRyrIljDOLHM-u_H3_gw"
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
 
+router.get('/rl3', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/?cnl=5,2161642,75&cnltype=CLASS,EMPLOYEEB,ORGANIZE&etr=a2SPGLL1YTShWpGWK4l75ndxnnmUcfGs1BXA25/G6Oin2DUWKBPtyCtcdNig1D7MUVgS9f8M4cdzIc60i7bWyNGSlM4e+en0r5i1XeAKoiWa6cfQfBpu7AjOkN+erO/d392tzLL/uJ/iNZIj+XG93lZiyWlVYhmsdRqwzl3UKt5IslYC7UVdOlFWpFJn/89ywY40A7kCwm8mDOZLjta2gaexqfQnRVLuPIWdse0frJkoHQU3FV8M+NH6K1DlxB3QzU8kkcX1R0XSFhkODaKNBS54Nnybip8s3O+HmONdQLIWAK29Lw2rr6SScD4C5VXmeiPztLKCto5cbZwZU9qlLXnHjOBoRoG5X7CekgdNfpg6yWbeyAImYpusG6eGG0js47E3g4TafsXzOC9LBGExYWE6MfEcjXLhWwtIOZi9BlgYcn7HOxZunkLnvQC12iB63Entx/Yy/GgRhpyAthidF0uSx25We+Rp4UjdaSG4ljOgXviSZP2LahB0nlWex8aL",
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
 module.exports = router
