@@ -83,4 +83,31 @@ router.get('/rl4', async (ctx, next) => {
   ctx.redirect(link);
 })
 
+router.get('/rl5', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=vlhCRxAjL5Z4pdSCXJcgRqkpnEeIB0pWNGccP8dJU%2FNUGaGUDUnopewvlCAGRfurpolAq%2FcBLBmVoFXkO2ikAcztCbL9HYOW%2F28M1RCNSom3BF8BrdsHyJX6S%2BZl4%2BegQTCHNXiwkp74qybz5ptZM9bnJ7wpbqb%2FcGZy633KPGg6QR2extjPKV7bKeTqUIQYd%2BKz8HNc5Lsjx9PgLIjsL4ipeFuIvYXGjl7svhnCpR8xlrrWvVKAGrbCHuMl7ai7S2Sj7uTnlnuamm9OFmNU7y2B%2F6wnSGeVG%2F%2FwLWLWF03TJbZjSbWkriXp3PvyNuCs3gJwMMHB72zEVJ9ZTY9wzxDDZ3u6SrsUS%2Bj%2BWAFLbNkcbs8VJzb%2Bap6Ot9U5hrV5989QrPT%2BwUUcp1f%2BBnm3loiNZX7Qrds9UD0pUTCxMEIPIEFlFj%2F1bkgzE%2FYysDEfDShWx2%2FnqXiuzhDq9uPqlor5hHZ4HK6piC6%2FPZyrbv%2BaS4n7%2FZAKUEktj4TCfEMf&source=JZ-GG17",
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=r%2FX8xWsKI%2F%2F5wbJRIcgFykZcXWjV9M0oxMpmRSB3FZHKJPDMKXnnCUAjWxIG1bUEykkogB0jVumWjJLaIAl%2BtMR%2FTOUAHfXvoLC6LjNcyc5nie%2BcPPXCf4sYMGLCzV%2BzzvWTAQC7j3xMQmQfWIIx8d7JoJBoZy5IQc6fJzE7BiUO2SUNScr0%2F7VMiC2BxjN49peAikwrRte82ym%2B9eKvgvcOESofrS2XO7nwLgBubUCPQ5lWV2RV2Vbe77rajojal4oHBCCe3Lu%2FPU%2FWaPZzLADNiNaIYvJk60zAXC31QctMv0%2FiOeAI83rt%2Bgr%2B%2F654YSZ%2FugPo9qeZLDgMu7Hrt0LpurK6r7%2BizMJYYwL6mErcs4WPMmUelHZJiU4QNudo0mgLKUCDXGXco66o6CHEZCgbUSKXtvTx9%2BotLO7JpGw4KzLcSKdsUN4UNQKS4JDQ16FlYmkV0rMZMbbJVz6lRbFj3gUeqlC2XoMhPghY%2Bmg%2F6yi3jkSm%2F86%2BHBIOG9Fj&source=JZ-GG17",
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=sUnrkQBulFOYsser1jk3VATQy%2BfeBaqDqtBoRohsX9qE6ZLbUVZGFHv%2BKAUqy3tVUNM8ClMpuI07Qaq47HTBm5ON85txM9%2Fck43MLQedT%2BuIkEIG%2BiJDq%2FyblbWMVwQXXKDYSi8xDx5bDwykTyMPrLjX2QCPVUN%2B4G4Dbh0oV8OT6RGIS81YCKA3EviLT2g6OI4%2BuJ3iVD8BQNeIsmoYjsA7IVvyO%2FZr3WVGOAdJDCH9EhjSW5tjG1ihuQUXPEH8%2Bz4zCTuBAavq5%2BYmh%2B%2FYTL8FPDX1UZwOpBZnuVQDGPsaUpuJM5x%2B%2FHHTlwplLLRqXPPsnATVJ%2BUOvV6SA819TzvwametRS4Yp2I9WVELHs5ot8jFUp0sxrYa47eR0HyAWCtdxjOk9r9RPZMtITMWPBoW%2FrFfdU8Bh429tR3xF4zHp3WdgUIJ1NU%2BQ7X0y4iqpgrAFYonitdUx46fmF6i32zCE65yCbFvIunop6vzTcwv3VrPFgfsIkJgCSxS0tz%2F&source=JZ-GG17"
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
+
+router.get('/rl6', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=SUjYUndiORF43ifGUs61NERt02Bmr72bdF5KMTC7ep%2FDzrn1oHAwOecDwZkbe2hSbe981wnLBcYA0pBWioh1qXPPVPevmeJMXeXF%2FIpOz%2FnYFnBDb2hLV5QdMvOxKHQEZQMukssssmZ9zlBp3D1fqMoh%2B2MV4TyUztjsd0xiw2U572gIletDDw4u2kFEMhA1V0UindpY1HOjNjjYKXrM9th7uiAMjHr8qn%2FNW0s2R%2F5fEGpyCMZhNz4hyTeBFFAsO3ZW1N9wSIXD%2BNVTsO1Yhh9ecM7sBIewgCorrbTSXPLLScKUrB%2FyymoYQcz1%2BDmNucwCHPx08lK7R8YgK%2Baomj0O1u0dy53QddxiUSYWjMlpsO62i%2FZfrE8Mwj1zSZGsFe6BN2jgAcU%2BWy5IKxpYRUnRCbJGs4xHagvgf9YnY2JQoYA0crxBZXYddIza6EM7H8Mm896Rc6YBjT01gQ8q6CyW3Tf8yea9VOr%2BcCqJIU7%2BZe3FTOTu15VqREJT0yyc&source=JZ-GG17",
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=gY6uu8IVHw1hDQOFVEHvImweNl3gq%2BUGSK3%2FsMjn%2FjXcfgIdr%2BMLX5AO2i8sHaz1Fn3vomUJk9Dr0HoD%2F1l1hY0NCYc9st3cwyXw8RfCsqAOqf%2BSZ2aDOlt5ZR5DhmKBRLNODza1LOnLjio0ik1LBBQiFRPfWlmP0tsaXLnO7PBuU5upO%2Bf%2FCx2yM%2B01Mz6fW2lOw%2FJFSTLYPo4tyS5WkgQb579hzMhKs6%2BxfVnVJOXO3UWUKsme1qKNfCy2utn5H2OlGaur5koSdM5pKLByVInv83q%2F1SFln%2Fdtda2K%2Bif9jfh%2B2pGMiwWhEdEn%2BoKgNDt7%2FS49QuhSNiNSbvMYjrJi72y27M6oOnbvIOXh2LzrcEAOdhw4OefQDtNTm8%2Bysx8wljxwbpdpvXmlK2%2F4Rj37EXvRT2JXq1TnABCBL3qbNbfyv4EzZFGknTAr08C9EBHubx1W1yr9OIn%2BYPv8ar4Fr2nvu1ZzxDy12lcQ%2F0qOowxEjaimru9tMTPPtYu&source=JZ-GG17"
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
+
 module.exports = router
