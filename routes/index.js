@@ -76,6 +76,7 @@ router.get('/rl4', async (ctx, next) => {
   // ctx.response.set('Location', 'https://wwww.baidu.com')
   var links = [
 	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=Np6Qrx3a6LwwX%2BnHkIpJjQqbmz4jFEXrb7sTEytBxijwdkUEZUjZCb1%2F%2BbQW7AnwhN4lYs2%2Fb7RXpQUFO7AB91gQcAWzV%2FtnWpZlP0UJ%2BKMc3JT%2Bh5zPJ38ykhfDg0A1A2H0mDpO3yiBuVDU9WVqOUAbR6ZPLvWFCsl8NBBh%2F6FBAh6GSk6B12gOLr2alc130PMoRP%2Ba1u6ksG9UitO441C7Vs4ZvaF1Du9COnI46Z2BSgqFyypj%2FsGxI1bMXJgGnsnsBUElJ%2FieqW1V%2FsDd9zjShPVFumc76WzqvgatyPSNIsZy3uC9XCla0H4cVUvqwKPNSHkSM42CnD0fCSQKWlk5uEnLCe1JMN0n2xofsppIM3mvzsuHB3P%2FMiUEutTTV1Gz0ZGGIDSkFqQX5yDv5AdvxOMAIEGtgitgkoTJuhC9gszJD8pkUKuw8iA1eHCXxyObdyMLtMQEZQLVw5wEMC22tGyEr8%2Fjut%2ByFxozMa7nq21LIQO7nS%2FnVOouN36z&source=JZ-GG17#page=1",
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=6&encryptStr=sHjZGR6BNrUfXcvigdmHizeqk88Fpqzp8miLDbnVQ0ZHUZxlIj2Yf%2BFekSavw%2F7hLByrakWSjMu%2BmwBHSuhJdcevPKbj2YO5IrgyetZRcNH3WmRDNuDKLbJUYQmzScYB%2B6B4yWaMQUUt2SR9xNGz6a%2FQEdZGCCuyFaX9nyrOSCg9od4%2FAzDHJl1kLQN701TMkHGCPVSV0v%2B6et%2ByDTFAnoExLn71IdZ0RedKr2FLDxa8p0b%2FR0QydZ%2FFuU8fqJY%2F54D1Q3sZqzvJ30i4cYSzBA14oaYtyx6IKoMoDD20YX6BV6Pdyq6CnM9z%2BcsMDlnGenFe6pNHXz7Yp0KbdiO3lB2FauXJ58%2BcNSGr5ZHTP0mt%2B11MiHIIoCba31H55OXe91ASvdyGKht8penBCRAwChwMDYNGQRGGdgnFa2vxcZ%2FgiGvQOOiue5Wn4aA1kBTh8FkMpZ2apSjg2mf%2BMP8fQXNkmacXZA6%2BQCi%2BttaTcHQN86Rudf6XWU9r2qrUWPAx&source=JZ-GG17#page=1"
   ];
   maxLink = links.length - 1;
   num = random(0, maxLink);
