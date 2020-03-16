@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social on jason Blog</title>
-    <link>https://ccxyk.top/tags/social/</link>
+    <link>http://ccxyk.top/tags/social/</link>
     <description>Recent content in social on jason Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ccxyk.top/tags/social/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ccxyk.top/tags/social/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JavaScript 资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>JavaScript 资源大全中文版 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《jQWidgets：jQuery HTML5 UI组件框架》 《Bootstrap：Web前端开发框架》 《YUI Compressor：JS/CSS压缩工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：

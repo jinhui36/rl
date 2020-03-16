@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on jason Blog</title>
-    <link>https://ccxyk.top/tags/tags/</link>
+    <link>http://ccxyk.top/tags/tags/</link>
     <description>Recent content in tags on jason Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ccxyk.top/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ccxyk.top/tags/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C 语言资源大全中文版 </title>
-      <link>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome：XXX 系列的资源整理。awesome-c 是 koz.ross 发起维护的 C 语言资源列表，内容包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等等。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-c 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《libPhenom：Facebook开源的高性能C语言并发编程框架》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：

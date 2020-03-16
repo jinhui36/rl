@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>features on jason Blog</title>
-    <link>https://ccxyk.top/categories/features/</link>
+    <link>http://ccxyk.top/categories/features/</link>
     <description>Recent content in features on jason Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ccxyk.top/categories/features/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ccxyk.top/categories/features/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C&#43;&#43; 资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/c-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-cpp 就是 fffaraz 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《libPhenom：Facebook开源的高性能 C 语言并发编程框架》 《OpenFrameworks：一个用C++编码的跨平台开源工具包》   目录  标准库 框架 人工智能 异步事件循环 音频 生态学 压缩 并发性 容器 密码学 数据库 调试 游戏引擎 图形用户界面 图形 图像处理 国际化 Json 日志 机器学习 数学 多媒体 网络 物理学 机器人学 科学计算 脚本 序列化 视频 虚拟机 Web应用框架 XML 多项混杂 软件 编译器 在线编译器 调试器 集成开发环境（IDE） 构建系统 静态代码分析  如何参与本项目？ 本项目的参与者  维护者：tangyouhua</description>
@@ -24,10 +24,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>Go 资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/go-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>此项目是 awesome-go 中文版，最后一次同步时间 : 2019-10-29 14:10:17(每隔1天同步一次)
     
  为Awesome Go打赏~
@@ -44,10 +44,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>Java资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/java%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-java 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 ImportNew。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《OWNER：Java配置文件解决方案》 《Spring Boot：简化Spring应用初始搭建以及开发过程》 《SonarQube：开源的代码质量管理工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
@@ -61,10 +61,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>Python 资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-python 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 关于项目 我们要做什么？  基于 awesome-python 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Scrapy：Python 的爬虫框架》 《Flask：一个使用 Python 编写的轻量级 Web 应用框架》   如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交 PR 时请参照以下要求：
@@ -77,10 +77,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>区块链(BlockChain)资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/%E5%8C%BA%E5%9D%97%E9%93%BEblockchain%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>Awesome Blockchain   收集所有区块链(BlockChain)技术开发相关资料
  Please read the contribution guidelines before contributing. 请在为本项目贡献信息前仔细阅读 操作指南
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。 提交的项目格式如下： 项目名称：XXXXX 相关介绍: XXXXXX
@@ -89,10 +89,10 @@ CONTENTS  INTRO 介绍 TUTORIAL 教程 PROJECT 项目 DOCUMENT 资料 APPLICATIO
     
     <item>
       <title>机器学习资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/japanese-test/</link>
+      <link>http://ccxyk.top/2019/10/japanese-test/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/japanese-test/</guid>
+      <guid>http://ccxyk.top/2019/10/japanese-test/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-machine-learning 就是 josephmisiti 发起维护的机器学习资源列表，内容包括了机器学习领域的框架、库以及软件（按编程语言排序）。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-machine-learning 资源列表，我们将对各个资源项进行编译整理。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《Apache OpenNLP：处理类似分词等常见任务的工具》 《Mallet：NLP工具，支持文档分类、聚类、主题建模》   如何参与本项目？ 本项目的参与者  维护者：tangyouhua
@@ -103,10 +103,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>C 语言资源大全中文版 </title>
-      <link>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/c-%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>我想很多程序员应该记得 GitHub 上有一个 Awesome：XXX 系列的资源整理。awesome-c 是 koz.ross 发起维护的 C 语言资源列表，内容包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等等。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-c 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《libPhenom：Facebook开源的高性能C语言并发编程框架》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
@@ -118,10 +118,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>JavaScript 资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/javascript-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>JavaScript 资源大全中文版 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 我们要做什么？  基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。 整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：  《jQWidgets：jQuery HTML5 UI组件框架》 《Bootstrap：Web前端开发框架》 《YUI Compressor：JS/CSS压缩工具》   如何参与本项目？ 如何为列表贡献新资源？ 欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
@@ -133,20 +133,20 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     
     <item>
       <title>VS Code资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/japanese-test/</link>
+      <link>http://ccxyk.top/2019/10/japanese-test/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/japanese-test/</guid>
+      <guid>http://ccxyk.top/2019/10/japanese-test/</guid>
       <description> 玩转VS Code  知乎专栏 - Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部都可以在这里找到。带你玩转VSCode！ 工欲善其事，必先利其器。知乎 Live《VS Code 从入门到进阶》，带你玩转 VS Code！ 微信公众号 - 文章内容与“玩转VS Code”知乎专栏同步，为习惯于公众号阅读的童鞋提供额外的选择。  * 微信群 - 畅所欲言，交流一切与 VS Code 相关的信息。相互学习，共同进步！请添加微信 hellovsc，然后拉入微信群。
 国人开发的优秀插件  background - 为 VS Code 添加你喜欢的背景图片。 Code Runner - 代码一键运行，支持超过40种语言。 LaTeX Workshop - 提升 LaTeX 编排效率：预览，智能提示，格式化等功能以及丰富的快捷键。 LeetCode - Offer 收割利器，在 VS Code 中轻松刷题。 Markdown All in One - 多合一的 Markdown 插件：自动补全，格式化，数学公式支持等功能以及丰富的快捷键。 MySQL - MySQL 管理工具。 One Dark Pro - 最受欢迎的 VS Code 主题之一 REST Client - REST API 的测试开发利器。 Ruby - 为 Ruby 语言提供全面支持。 Syncing - 简单可靠的多设备间 VS Code 配置同步工具。 Vetur - 极为好用的 Vue 开发工具。 VSC Netease Music - 边写代码，边听网易云音乐。  </description>
     </item>
     
     <item>
       <title>design资源大全中文版</title>
-      <link>https://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
+      <link>http://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
+      <guid>http://ccxyk.top/2019/10/design%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88/</guid>
       <description>设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客、设计工具设计教程、设计素材、配色方案、高清图库等等。
 如何加入我们？ 非常期待能有更多朋友一起来参与。加入前，有几个小要求：
  对设计感兴趣，如果在从事这方面工作更好； 如果您的英文还不错，那也非常好啦；（这个不强制要求）  如有兴趣，请加 QQ：191250436。加 Q 时请注明「设计资源」
