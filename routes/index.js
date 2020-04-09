@@ -125,4 +125,17 @@ router.get('/rl7', async (ctx, next) => {
   ctx.redirect(link);
 })
 
+router.get('/rl8', async (ctx, next) => {
+ ctx.body = 'koa2 string';
+  // ctx.response.set('Location', 'https://wwww.baidu.com')
+  var links = [
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=213&encryptStr=k3%2FMvIx8nRmjTcYX8nHFuCRU6zOkw5uqkvpJrBqRoT1uALAcNeeSpH0fLojiyKf4IHUSS7IJVcqFIrGh7GxV9cNfPyvgBlRp967%2BFgDkTfnLLB46xTXPp2XcugpnZ0GU5WMSiK5H%2Bcp4DJOmmX%2FAXKUoo0zLQMLgXnqWGuPvnRhAKq5yzWZVF%2FpIs0yMufEh2f5mQVahfAaoVh6TGSyprvWGp9TlIqQXuzj8wi09QkVPErYZ7DdNITfTK7LX%2BK8W2V1yvridtomxfejj4oMNHaMFihaHXgJd6uAgG6P%2BeE4Z5CQoSTYkhvU7hZ4VKDs59Ic4TmAm%2FK1c0oYNaqHZBpCV9EU%2FrmCWYFLX4r4H3WeahHOlYwpGf4oAmuI0EWlxSxQMF%2FW0bO3MLlHOPwn6lZiEbLzsw8wDIxjzUiLCZ%2FUALipjTKvVVtFzCLxm41iXBxTDan5sHibQ6DRMmVNqARtv3H%2FtSZrGciIb3x5l31BtmpgAOFkmYMVxWLgOKvY5&source=JZ-GG17#page=1",
+	"https://creditcard.cmbc.com.cn/wsv2/step?cardId=213&encryptStr=ZxtuXjVrAYksBq8G0e5sVeEApXgetGLHq%2FrFfcMOIy2Bnf8cFiuuw2xBp2ErPgVB7eDETHD%2BMvguuvksy7K2re3gd%2B0OZHzsiNSzlDWY56KyMWyXO7%2Bq3bGol4ItOGkEiWu8%2Fd0v80jW2NfC5IFjqOm9v%2FaMGx8zGdSm6%2BpSECSc5EFZybTWulSYZoysdRwFQFgOsME7%2FbLjMhOaI2GhySDt0563GGHtFIvZnakExVXnXrvZbFztCmS2vwCnrr1Jj3Mb0CYMvU%2FD45qiDaSK7vQr7AYt7knIx9VoZps9K17a%2F8lQ4Z11BL5kkn1um6D6qlglVPNS1sAGJ2xTO47bFzWNgc2JBa76qom%2FJ5yFacxr4AkTplQh0Ve0FvGVlTcclHe0Rf94t2ZAflWwueVXQZ2u2Ryjeg8Rvw1dbNCWN9reAuW2uRUTyWQ0maa5RET6aeudNZiGYgQQgWjOnu4CyB9cAXBGActfPJtLYAYZ1PuqnWYz5eZvWUsHdZsnnLh5&source=JZ-GG17#page=1"
+  ];
+  maxLink = links.length - 1;
+  num = random(0, maxLink);
+  link = links[num];
+  ctx.redirect(link);
+})
+
 module.exports = router
